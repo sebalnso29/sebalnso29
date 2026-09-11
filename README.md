@@ -6,10 +6,9 @@
 
 ## 🚀 Sobre mí
 
-- 🔭 Actualmente estoy trabajando en **[Nombre de tu proyecto o área]**
-- 🌱 Estoy aprendiendo **[Tecnología o Lenguaje]**
-- 💬 Pregúntame sobre **[Tus temas fuertes, ej: React, Python, Node.js]**
-- 📬 Cómo contactarme: **[Tu Correo]** o **[Tu LinkedIn]**
+- 🌱 Estoy aprendiendo **INGENIERIA DE SOFTWARE**
+- 💬 Pregúntame sobre **React, Python, Node.js]**
+- 📬 Cómo contactarme: **sebastianmacetas@gmail.com** o **https://www.linkedin.com/in/sebasti%C3%A1n-alonso-alonso-vilca-57647a387/**
 
 ---
 
@@ -29,14 +28,6 @@
 </p>
 
 ---
-
-## 🎵 ¿Qué estoy escuchando en Spotify?
-
-<p align="center">
-  <a href="https://open.spotify.com/user/TU_ID_SPOTIFY">
-    <img src="https://novatoken-spotify-readme.vercel.app/api/spotify" alt="Spotify Currently Playing" />
-  </a>
-</p>
 
 ---
 
