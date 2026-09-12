@@ -8,7 +8,7 @@
 
 - 🌱 Estoy aprendiendo **INGENIERIA DE SOFTWARE**
 - 💬 Pregúntame sobre **React, Python, Node.js]**
-- 📬 Cómo contactarme: **sebastianmacetas@gmail.com** o **https://www.linkedin.com/in/sebasti%C3%A1n-alonso-alonso-vilca-57647a387/**
+- 📬 Cómo contactarme: **sebastianmacetas@gmail.com** o **https://www.linkedin.com/in/sebastián-alonso-macetas-vilca-57647a387/**
 
 ---
 
